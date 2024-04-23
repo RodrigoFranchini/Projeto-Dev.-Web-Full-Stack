@@ -58,8 +58,8 @@ Esses recursos adicionais são integrados ao projeto para enriquecer o conteúdo
 
 Na pasta "extras" do repositório, você encontrará a documentação das videoaulas, organizadas em duas unidades:
 
-[Unidade 1](./extras/material_didatico/Unidade%1): Esta pasta contém a documentação das videoaulas relacionadas à Unidade 1 do curso.
-[Unidade 2](./extras/material_didatico/Unidade%2): Aqui você encontrará a documentação das videoaulas relacionadas à Unidade 2 do curso até React - Ciclo de Vida de um Componente.
+- [Unidade 1](./extras/material_didatico/Unidade2%01): Esta pasta contém a documentação das videoaulas relacionadas à Unidade 1 do curso.
+- [Unidade 2](./extras/material_didatico/Unidade2%02): Aqui você encontrará a documentação das videoaulas relacionadas à Unidade 2 do curso até React - Ciclo de Vida de um Componente.
 
 ## Contribuindo 
 
