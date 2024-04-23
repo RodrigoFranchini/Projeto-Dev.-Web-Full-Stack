@@ -56,6 +56,8 @@ Além da documentação própria das videoaulas, este projeto utiliza conteúdos
 
 Esses recursos adicionais são integrados ao projeto para enriquecer o conteúdo disponibilizado aos usuários e fornecer uma experiência de aprendizado mais completa.
 
+## Extras
+
 Na pasta "extras" do repositório, você encontrará a documentação das videoaulas, organizadas em duas unidades:
 
 - [Unidade 1](./extras/material_didatico/Unidade%201): Esta pasta contém a documentação das videoaulas relacionadas à Unidade 1 do curso.
