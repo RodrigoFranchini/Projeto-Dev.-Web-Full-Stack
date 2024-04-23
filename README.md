@@ -56,6 +56,11 @@ Além da documentação própria das videoaulas, este projeto utiliza conteúdos
 
 Esses recursos adicionais são integrados ao projeto para enriquecer o conteúdo disponibilizado aos usuários e fornecer uma experiência de aprendizado mais completa.
 
+Na pasta "extras" do repositório, você encontrará a documentação das videoaulas, organizadas em duas unidades:
+
+[Unidade 1](./extras/Unidade%1): Esta pasta contém a documentação das videoaulas relacionadas à Unidade 1 do curso.
+[Unidade 2](./extras/Unidade%2): Aqui você encontrará a documentação das videoaulas relacionadas à Unidade 2 do curso até React - Ciclo de Vida de um Componente.
+
 ## Contribuindo 
 
 Se você tiver alguma dúvida ou quiser discutir ideias antes de contribuir, sinta-se à vontade para abrir uma **[issue](https://github.com/RodrigoFranchini/Projeto-Dev.-Web-Full-Stack/issues)**.
