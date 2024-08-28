@@ -54,10 +54,4 @@
 
 ---
 
-**Material Complementar:**
-
-- [Métodos Ágeis Scrum PDF](../../recursos/PDF/MAS.pdf)
-- [Métodos Ágeis Kanban PDF](../../recursos/PDF/MAK.pdf)
-- [Padrões Web PDF](../../recursos/PDF/PW.pdf)
-
 > "Com a harmonia entre Métodos Ágeis, DevOps e Padrões Web, construímos não apenas produtos, mas experiências transformadoras que impactam positivamente a vida dos usuários."
