@@ -17,8 +17,4 @@
 
 ---
 
-**Material Complementar:**
-
-- [Requisitos de Projetos PDF](../../recursos/PDF/RP.pdf)
-
 > "Em cada requisito meticulosamente planejado e em cada projeto de aplicação minuciosamente executado, vislumbra-se o potencial para transformar ideias em realidade e desafios em oportunidades."
