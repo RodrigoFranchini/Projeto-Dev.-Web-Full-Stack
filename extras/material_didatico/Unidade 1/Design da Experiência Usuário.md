@@ -24,9 +24,4 @@
 
 ---
 
-**Material complementar:**
-
-- [Experiência do Usuário PDF](../../recursos/PDF/DCU.pdf)
-- [Histórias do Usuário PDF](../../recursos/PDF/HUP.pdf)
-
   > "O Design da Experiência do Usuário transforma interações em conexões significativas, elevando cada toque em uma experiência memorável."
