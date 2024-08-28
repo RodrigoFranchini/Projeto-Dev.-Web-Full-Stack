@@ -15,6 +15,5 @@
 **Materiais complementares:**
 
 - [Criação do projeto usando React no VS Code](../../recursos/TXT/Criacao_projeto_vite_React_no_VSCode.txt)
-- [Primero Componente React PDF](../../recursos/PDF/RPC.pdf)
 
 > "Aprenda a dar vida às suas ideias com React, começando pelo básico. Desbrave o caminho para criar interfaces web dinâmicas e interativas."
