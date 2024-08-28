@@ -51,7 +51,6 @@
 
 **Material Complementar:**
 
-- [React Introdução PDF](../../recursos/PDF/RI.pdf)
 - [Como eu gostaria que tivesse sido minha primeira aula de React](https://www.tabnews.com.br/doretto/conteudo-como-eu-gostaria-que-tivesse-sido-minha-primeira-aula-de-react)
 
 > "Desbrave o universo da reatividade e transforme suas ideias em interfaces extraordinárias com o React."
