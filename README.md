@@ -47,9 +47,8 @@ npm init vite@latest nome_do_projeto_desejado --template react
 
 ## Recursos Adicionais
 
-Além da documentação própria das videoaulas, este projeto utiliza conteúdos adicionais provenientes da matéria de Desenvolvimento Web Full Stack da PUC Minas. Esses recursos incluem:
+Além da documentação própria das videoaulas, este projeto utiliza conteúdos adicionais. Esses recursos incluem:
 
-- **PDFs:** São disponibilizados documentos em formato PDF contendo materiais complementares e de referência da matéria;
 - **Imagens:** Utilizou-se imagens para ilustrar conceitos, exemplos e instruções dentro da documentação e interface da aplicação;
 - **TXTs:** São disponibilizados documentos em formato TXT contendo materiais complementares e de referência a matéria;
 - **Conteúdos da Matéria:** Também foi feita referência e utilizou-se conceitos, exercícios e exemplos abordados durante as aulas da disciplina.
