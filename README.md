@@ -68,6 +68,6 @@ Se você tiver alguma dúvida ou quiser discutir ideias antes de contribuir, sin
 
 ## Licença
 
-Este projeto é licenciado sob a Licença Creative Commons Zero v1.0 Universal. Para obter uma cópia desta licença, consulte o arquivo [LICENSE](LICENSE) ou visite [https://creativecommons.org/publicdomain/zero/1.0/legalcode](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
+Este projeto é licenciado sob a Licença MIT. Para obter uma cópia desta licença, consulte o arquivo [LICENSE](LICENSE) ou visite [esse link](https://opensource.org/license/mit).
 
 
